@@ -3,7 +3,7 @@
     "title": "Token Action HUD - RQG",
     "description": "Integration of Token Action HUD with the RQG system.",
     "version": "1.0.0",
-    "minimumCoreVersion": "10",
+    "minimumCoreVersion": "12    ",
     "compatibleCoreVersion": "12",
     "authors": [
       {

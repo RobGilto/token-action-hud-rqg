@@ -14,7 +14,7 @@
     ],
     "url": "https://github.com/RobGilto/token-action-hud-rqg",
     "manifest": "https://github.com/RobGilto/token-action-hud-rqg/blob/main/module.js",
-    "download": "https://your-download-url-for-module.zip",
+    "download": "https://github.com/RobGilto/token-action-hud-rqg/archive/refs/heads/main.zip",
     "type": "module",
     "esmodules": [
       "scripts/module.js"

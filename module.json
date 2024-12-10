@@ -13,7 +13,7 @@
       }
     ],
     "url": "https://github.com/RobGilto/token-action-hud-rqg",
-    "manifest": "https://your-raw-url-for-module.json",
+    "manifest": "https://github.com/RobGilto/token-action-hud-rqg/blob/main/module.js",
     "download": "https://your-download-url-for-module.zip",
     "type": "module",
     "esmodules": [
